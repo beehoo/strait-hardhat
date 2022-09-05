@@ -23,8 +23,8 @@ module.exports = {
       chainId: 1337
     },
     ropsten: {
-      url: 'https://ropsten.infura.io/v3/678ed18775db460cb42247ef6558e515',
-      accounts: ['e9b137c07b15ae3a86597d8d91e019cd09912bb1f9b6610962ff1aa41a56e7df']
+      url: '',
+      accounts: ['']
     }
   }
 };
