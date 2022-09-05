@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+# StraitMinter合约代码
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+本项目仅作为学习和测试使用
 
-Try running some of the following tasks:
+## 介绍
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+本合约基于`OpenZeppelin`和`hardhat`框架开发完成。目前已实现包括铸造、转账、提现、查询账户Tokens等功能。
